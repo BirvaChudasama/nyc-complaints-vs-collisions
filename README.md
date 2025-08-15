@@ -105,6 +105,8 @@ Run the notebooks in the following order to process data, fetch live updates, ge
 5. **View dashboards**
 Open the .pbix file in Power BI
 
+<img width="1505" height="847" alt="image" src="https://github.com/user-attachments/assets/08ca58bc-d0ce-4b6f-b044-a9e8052d2db1" />
+
 
 Open the .twb file in Tableau
 
