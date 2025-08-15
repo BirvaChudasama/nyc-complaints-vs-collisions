@@ -107,6 +107,11 @@ Open the .pbix file in Power BI
 
 <img width="1505" height="847" alt="image" src="https://github.com/user-attachments/assets/08ca58bc-d0ce-4b6f-b044-a9e8052d2db1" />
 
+<img width="1435" height="811" alt="image" src="https://github.com/user-attachments/assets/de84df1b-8c92-4e6d-a3d1-2303cede41b1" />
+
+<img width="1423" height="813" alt="image" src="https://github.com/user-attachments/assets/0511a01d-0985-4d79-855b-535e02244089" />
+
+
 
 Open the .twb file in Tableau
 
