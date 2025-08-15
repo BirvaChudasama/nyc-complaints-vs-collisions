@@ -59,6 +59,10 @@ It integrates **historical datasets** with the **NYC Open Data 311 API** to enab
 [Analytics & Modeling: SARIMAX / Prophet / Clustering] --> [Visualization & Dashboard] --> [Real-Time Alerts]
 
 
+<img width="1536" height="1024" alt="ChatGPT Image Aug 15, 2025, 04_30_49 PM" src="https://github.com/user-attachments/assets/9e9fa609-da84-4f21-8b4e-68603e0404b8" />
+
+
+
 ## 📈 Results & Insights
 - Found a strong correlation between **traffic signal complaints** and collision hotspots.
 - Time-lag patterns suggest targeted intervention windows.
